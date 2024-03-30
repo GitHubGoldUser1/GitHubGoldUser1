@@ -44,5 +44,5 @@ You can click the Preview link to take a look at your changes.
 - 🙏🏻 Thank you mother and father 
   <BR>
   <BR>
-<H4>THANK YOU❗</H4>
-<H4>FOR VISIT..</H4>
+<P>THANK YOU❗</P>
+<P>FOR VISIT</P>
