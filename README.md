@@ -1,12 +1,26 @@
 <H1>KARAN SAXENA</H1>
 <BR>
-<H1>Python</H1><BR>
-<H1>HTML</H1><BR>
-<H1>JAVA</H1><BR>
-<H1>PROGRAMMING</H1><BR>
-<H1>COMPUTERS</H1><BR>
-<H1>INTERNET</H1><BR>
-<H1>A.I</H1>
+<H2>
+  Welcome to the wonderful world of code collaboration!<BR>
+  Whether you're here to share your projects, learn from <BR>
+  others, or simply explore, you're in the right place. <BR>
+  Let's build something amazing together! </H2><BR>
+<H2>
+  GitHub User: Enjoying exploring projects and learning <BR>
+  from others on GitHub. Love discovering new repositories<BR>
+  and occasionally sharing my own code. Excited to be part<BR>
+  of the coding community! </H2><BR>
+<H1>
+  I ALSO HAVE KNOWLEDGE OF
+</H1>
+<H2>
+ -COMPUTERS<BR>
+ -Python<BR>
+ -HTML<BR>
+ -ELECTRONICS<BR>
+ -OFFICE SOFTWARES<BR>
+ -................
+  </H2>
 <B>
 - 👋 Hi, I’m @GitHubGoldUser1<BR>
 - 👀 I’m interested in Learning <BR>
