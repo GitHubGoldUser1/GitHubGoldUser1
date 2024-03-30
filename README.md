@@ -1,7 +1,6 @@
-<H1>I AM KARAN SAXENA</H1>
-<H2>
-____________________________________________________________
-</H2>
+<H1>
+  ::::: I AM KARAN SAXENA :::::
+</H1>
 <BR>
 <H2>
   Welcome to the wonderful world of code collaboration!<BR>
