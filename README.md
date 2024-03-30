@@ -9,18 +9,24 @@
   GitHub User: Enjoying exploring projects and learning <BR>
   from others on GitHub. Love discovering new repositories<BR>
   and occasionally sharing my own code. Excited to be part<BR>
-  of the coding community! </H2><BR>
+  of the coding community! </H2>
+  <BR>
+  <BR>
 <H1>
   I ALSO HAVE KNOWLEDGE OF
 </H1>
-<H2>
+<H1>
  -COMPUTERS<BR>
  -Python<BR>
  -HTML<BR>
  -ELECTRONICS<BR>
  -OFFICE SOFTWARES<BR>
+ -MANAGEMENT<BR>
+ -INTERNET<BR>
+ -DOCUMENTATION<BR>
  -................
-  </H2>
+  </H1>
+  
 <B>
 - 👋 Hi, I’m @GitHubGoldUser1<BR>
 - 👀 I’m interested in Learning <BR>
