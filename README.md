@@ -2,9 +2,7 @@
 <H2>
   Welcome to GitHub! It's great to see you here. Feel<BR> 
   free to explore, learn, and collaborate on projects.<BR> 
-  Don't hesitate to reach out if you need any help or <BR>
-  have questions. Looking forward to seeing your <BR>
-  contributions!
+  
 </H2>
 <BR>
 <H2>
