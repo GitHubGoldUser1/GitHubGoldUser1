@@ -1,6 +1,11 @@
-<H1>
-  ::::: I AM KARAN SAXENA :::::
-</H1>
+
+<H2>
+  Welcome to GitHub! It's great to see you here. Feel<BR> 
+  free to explore, learn, and collaborate on projects.<BR> 
+  Don't hesitate to reach out if you need any help or <BR>
+  have questions. Looking forward to seeing your <BR>
+  contributions!
+</H2>
 <BR>
 <H2>
   Welcome to the wonderful world of code collaboration!<BR>
@@ -45,3 +50,6 @@ You can click the Preview link to take a look at your changes.
   <BR>
 <P>THANK YOU❗</P>
 <P>FOR VISIT</P>
+<H6>
+  "WELCOME FROM KARAN SAXENA"
+</H6>
