@@ -35,7 +35,7 @@
 <B>
 - 👋 Hi, I’m @GitHubGoldUser1<BR>
 - 👀 I’m interested in Learning <BR>
-- 🌱 I’m currently learning Python, HTML, programming<BR> 
+- 🌱 I’m currently learning Python, C, HTML, programming<BR> 
 - 🔗 I’m looking to collaborate <BR>
 - 📫 How to reach me - with this account <BR>
 - 😄 Pronouns: GOLD USER <BR>
